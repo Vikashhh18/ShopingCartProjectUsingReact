@@ -1,2 +1,8 @@
-# ShopingCartProjectUsingReact
-This project lets users browse products and add them to a cart. Key features include a product listing with details, easy "Add to Cart" functionality, and a cart overview showing selected items, quantities, and total cost. The interface is user-friendly, enabling seamless product selection and cart management.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
